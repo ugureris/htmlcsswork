@@ -195,26 +195,6 @@ body {
   padding-bottom: 30px;
 }
 
-/* footer {
-  height: 100px;
-  background: #3a3a3a;
-}
-footer p {
-  margin: 0;
-  padding-top: 18px;
-  line-height: normal;
-  text-align: center;
-  text-transform: lowercase;
-  font-family: "Abel", sans-serif;
-  font-size: 16px;
-  color: #a4b890;
-}
-
-footer a {
-  text-decoration: underline;
-  color: #70c964;
-} */
-
 .clear {
   clear: both;
 }
