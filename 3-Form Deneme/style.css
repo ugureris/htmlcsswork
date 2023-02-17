@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: cornflowerblue;
+  align-items: center;
+  justify-content: center;
+  display: block;
+}
+
+.container {
+  width: 700px;
+  background-color: white;
+  margin: 20px auto;
+}
+.container h1 {
+  font-weight: lighter;
+  line-height: 80px;
+}
+
+.input {
+  width: 80%;
+  height: 50px;
+  padding-bottom: 20px;
+  display: block;
+  margin: 20px auto;
+  font-size: 18px;
+  line-height: 50px;
+}
+
+#area {
+  width: 80%;
+  height: 120px;
+  margin: 20px auto;
+  display: block;
+}
+button {
+  text-align: center;
+  background-color: dodgerblue;
+  border: none;
+  width: 80%;
+  margin: 20px auto 60px auto;
+  display: block;
+  margin-bottom: 60px;
+  height: 35px;
+  color: white;
+}

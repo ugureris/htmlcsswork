@@ -1,0 +1,104 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: whitesmoke;
+}
+.container {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+}
+.header {
+  height: 200px;
+}
+
+.header h1 {
+  padding: 35px 0 0 0;
+  margin: 0;
+  font-size: 70px;
+  font-weight: normal;
+}
+.header h2 {
+  padding: 0;
+  margin: 0;
+  font-size: 33px;
+}
+.top {
+  background: #880000;
+  height: 50px;
+  line-height: 50px;
+}
+
+.top li {
+  list-style-type: none;
+  display: inline-block;
+}
+.top li a {
+  text-decoration: none;
+  color: white;
+  padding: 0 20px 0 0;
+  font-size: 19px;
+}
+.content {
+  background-color: white;
+  padding: 20px;
+}
+.content h1 {
+  font-weight: normal;
+}
+.text {
+  width: 600px;
+  float: right;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Georgia, Verdana, sans-serif;
+}
+.Atext {
+  font-size: 16px;
+  line-height: 24px;
+  font-family: Georgia, Verdana, sans-serif;
+}
+
+.content h2 {
+  background-color: #fff88e;
+  font-size: 21px;
+  padding: 15px;
+  color: red;
+  font-weight: normal;
+}
+
+.content ul li {
+  font-size: 16px;
+  font-family: Georgia, Verdana, sans-serif;
+  margin-bottom: 5px;
+}
+.footer {
+  background-color: #353535;
+  width: 100%;
+  margin: 0;
+  padding: 1px;
+  height: 70px;
+  line-height: 35px;
+  font-size: 19px;
+  color: white;
+}
+.fLeft {
+  float: left;
+}
+.fRight {
+  float: right;
+}
+span:hover {
+  color: #fff88e;
+  cursor: pointer;
+}
+span a:hover {
+  color: #880000;
+}
+.push a:hover {
+  color: #880000;
+}
+
+.top li a:hover {
+  color: #fff88e;
+}
